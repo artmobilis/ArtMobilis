@@ -18,6 +18,7 @@
 ### Optionnel
   * Description du jeu (règles et login)
   * Affichage final du scoring et comparaison avec les autres joueurs
+  * Open Data (contenu augmenté)
 
 ## Éditeur de contenu / BackEnd-Authoring
   * L'éditeur du parcours (site internet)
