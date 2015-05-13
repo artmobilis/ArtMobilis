@@ -2,23 +2,25 @@
 ## Client / Utilisateur
   * Application mobile ou site internet
   * Description du parcours
-  * Affichage de la carte avec tous les Points d'Interets [POI] (OpenStreetMap) et affichage de sa position actuelle (affichage en carte ou en réalité augmentée)
-  * Aller sur le POI le plus proche (orientation boussole, fléche, balise 3D, indication sonore)
+  * Affichage de la carte avec tous les Points d'Interets [POI] (OpenStreetMap) et affichage de sa position actuelle (affichage en carte ou en rÃ©alitÃ© augmentÃ©e)
+  * Aller sur le POI le plus proche (orientation boussole, flÃ©che, balise 3D, indication sonore)
   * Trouver le marqueur du POI (markeur tag ou image) et trigger
-  * Visualiser le contenu augmenté
+  * Visualiser le contenu augmentÃ©
 	1. Textes
 	2. Image image .png
-	3. Image animée .gif
+	3. Image animÃ©e .gif
 	4. Sons
-	5. Vidéos (avec couche alpha)
+	5. VidÃ©os (avec couche alpha)
 	6. Objet 3D texture
-	7. Objet 3D animé
-  * Interagir avec les contenus (clic écran)
+	7. Objet 3D animÃ©
+  * Interagir avec les contenus (clic Ã©cran)
+
 ### Optionnel
-  * Description du jeu (règles et login)
+  * Description du jeu (rÃ¨gles et login)
   * Affichage final du scoring et comparaison avec les autres joueurs
-## Éditeur de contenu / BackEnd-Authoring
-  * L'éditeur du parcours (site internet)
-  * Éditer les POI, position, descriptif
-  * Éditer le marqueur
-  * Éditer le contenu augmentée
+
+## Ã‰diteur de contenu / BackEnd-Authoring
+  * L'Ã©diteur du parcours (site internet)
+  * Ã‰diter les POI, position, descriptif
+  * Ã‰diter le marqueur
+  * Ã‰diter le contenu augmentÃ©e
