@@ -2,7 +2,7 @@
 ## Client / Utilisateur
   * Application mobile ou site internet
   * Description du parcours
-  * Affichage de la carte avec tous les Points d'Interets [POI] (OpenStreetMap) et affichage de sa position actuelle (affichage en carte ou en réalité augmentée)
+  * Affichage de la carte avec tous les Points d'Interets *POI* [(OpenStreetMap)](http://osm.org) et affichage de sa position actuelle (affichage en carte ou en réalité augmentée)
   * Aller sur le POI le plus proche (orientation boussole, fléche, balise 3D, indication sonore)
   * Trouver le marqueur du POI (markeur tag ou image) et trigger
   * Visualiser le contenu augmenté
