@@ -7,7 +7,7 @@
   * Trouver le marqueur du POI (markeur tag ou image) et trigger
   * Visualiser le contenu augmenté
 	1. Textes
-	2. Image image .png
+	2. Image .png
 	3. Image animée .gif
 	4. Sons
 	5. Vidéos (avec couche alpha)
