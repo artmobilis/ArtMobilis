@@ -7,6 +7,7 @@ Ce Workflow (Flux de travail) n'est pas exclusif. Il s'agit d'un guide fonctionn
 * enregistrement des modifications en local, 
 * envoi des modifs sur un depot perso distant, 
 * proposition des modifs depuis son depot perso distant vers le depot global distant du projet.
+
 --------------------------------------
 ##Verification des modifications
 Verification (positionnement) de la branche courante (ici "master" mais cela pourrait etre un autre branche!)
