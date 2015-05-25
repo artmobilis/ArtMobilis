@@ -3,10 +3,10 @@
 Ce Workflow (Flux de travail) n'est pas exclusif. Il s'agit d'un guide fonctionnel pour effectuer les taches courantes de contribution au projet :
 
 * modification du projet en local, 
- * verification des modifications, 
- * enregistrement des modifications en local, 
- * envoi des modifs sur un depot perso distant, 
- * proposition des modifs depuis son depot perso distant vers le depot global distant du projet.
+* verification des modifications, 
+* enregistrement des modifications en local, 
+* envoi des modifs sur un depot perso distant, 
+* proposition des modifs depuis son depot perso distant vers le depot global distant du projet.
 --------------------------------------
 ##Verification des modifications
 Verification (positionnement) de la branche courante (ici "master" mais cela pourrait etre un autre branche!)
