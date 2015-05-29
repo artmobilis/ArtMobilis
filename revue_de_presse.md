@@ -9,6 +9,7 @@
 ####Libre
 ####Commerciaux
 * [Réalité augmentée : Apple a acquis l’entreprise allemande Metaio](http://www.zdnet.fr/actualites/realite-augmentee-apple-a-acquis-l-entreprise-allemande-metaio-39819960.htm) - 29.05.15 - zdnet.fr - agence EP
+
 ####Recherche
 
 
