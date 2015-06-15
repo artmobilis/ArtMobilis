@@ -2,6 +2,8 @@
 
 ##Réalité augmenté
 
+[RA pro](http://www.augmented-reality.fr/) : Association de promotion de la réalité augmentée, un blog sur les avancées de la réalité augmentée.
+
 ###Techniques
 * Vision par ordinateur en js : [jsfeat code](https://github.com/inspirit/jsfeat) et [jsfeat doc](http://inspirit.github.io/jsfeat/). Pas mal d'outils intéressant dedans. Regardez et testez les demos sur vos smartphones. _Nota_ : En JS oui, mais pas sur tous les smartphones. [http://caniuse.com/#feat=stream](http://caniuse.com/#feat=stream)
 * [http://trackingjs.com/](http://trackingjs.com/). The tracking.js library brings different computer vision algorithms and techniques into the browser environment. By using modern HTML5 specifications, we enable you to do real-time color tracking, face detection and much more — all that with a lightweight core (~7 KB) and intuitive interface.
