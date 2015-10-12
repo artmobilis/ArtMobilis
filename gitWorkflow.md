@@ -2,6 +2,7 @@
 
 Ce Workflow (Flux de travail) n'est pas exclusif. Il s'agit d'un guide fonctionnel pour effectuer les taches courantes de contribution au projet :
 
+* mise en place des dépots (fork / add remote ....)
 * modification du projet en local, 
 * verification des modifications, 
 * enregistrement des modifications en local, 
@@ -9,6 +10,32 @@ Ce Workflow (Flux de travail) n'est pas exclusif. Il s'agit d'un guide fonctionn
 * proposition des modifs depuis son depot perso distant vers le depot global distant du projet.
 
 --------------------------------------
+## Mise en place des dépots
+- Premiere chose, sur internet faire un fork des dépots ArtMobilis : prototypes & documentation
+- Sur son ordi cloner les dépots : "upstream" pour les dépots du projet, et "MonNomDeDepotDeTravail" pour le fork
+
+
+     $:mkdir ArtMobilis/Prototypes
+     
+     $:mkdir ArtMobilis/Documentation
+     
+     $:cd Prototypes
+     
+     $:git remote add upstream https://github.com/artmobilis/Prototypes.git
+     
+     $:git remote add MonNomDeDepotDeTravail https://github.com/MonNomAMoi/Prototypes.git
+     
+     $:git remote update
+     
+     $:cd ../Documentation
+     
+     $:git remote add upstream https://github.com/artmobilis/Documentation.git
+     
+     $:git remote add MonNomDeDepotDeTravail https://github.com/MonNomAMoi/Documentation.git
+     
+     $:git remote update
+
+
 ##Verification des modifications
 Verification (positionnement) de la branche courante (ici "master" mais cela pourrait etre un autre branche!)
 
