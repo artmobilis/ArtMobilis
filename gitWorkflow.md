@@ -2,7 +2,7 @@
 
 Ce Workflow (Flux de travail) n'est pas exclusif. Il s'agit d'un guide fonctionnel pour effectuer les taches courantes de contribution au projet :
 
-* mise en place des dépots (fork / add remote ....)
+* mise en place des dépôts (fork / add remote ....)
 * modification du projet en local, 
 * verification des modifications, 
 * enregistrement des modifications en local, 
@@ -10,7 +10,7 @@ Ce Workflow (Flux de travail) n'est pas exclusif. Il s'agit d'un guide fonctionn
 * proposition des modifs depuis son depot perso distant vers le depot global distant du projet.
 
 --------------------------------------
-## Mise en place des dépots
+## Mise en place des dépôts
 - Premiere chose, sur internet faire un fork des dépots ArtMobilis : prototypes & documentation
 - Sur son ordi cloner les dépots : "upstream" pour les dépots du projet, et "MonNomDeDepotDeTravail" pour le fork
 
