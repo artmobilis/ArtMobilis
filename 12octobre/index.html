@@ -111,10 +111,64 @@ git merge upstream/master master</code></pre>
 						<h2>Modifier son code</h2>
 						<h3>Puis:</h3>													
 <pre><code data-trim contenteditable>
+git add fichiers ou dossiers (si nouveau fichiers)
 git commit -m "description"
 git push</code></pre>						
 					</section>	
+					<section>
+						<h2>Créer un Pull Request</h2>												
+						<img width="827" height="473" src="media/githubsync.png" alt="githubsync.png">						
+					</section>	
+					<section>
+																	
+						<img width="992" height="651" src="media/githubpr.png" alt="githubpr.png">						
+					</section>	
+					<section>
+																	
+						<img width="994" height="566" src="media/githubmerge.png" alt="githubmerge.png">						
+					</section>	
 				</section>
+				<section>
+					<section>
+					<h2>Installation pour le développement</h2>
+					installer  <a href="https://nodejs.org/">node.js</a>
+<pre><code data-trim contenteditable>
+npm install -g cordova ionic
+ionic start NomDuProjet sidemenu (choix du modèle: sidemenu ou tabs ou blank)
+cd NomDuProjet
+ionic serve
+</code></pre>							
+					</section>	
+					<section>
+					<h2>Ajout plateforme Android</h2>
+					
+<pre><code data-trim contenteditable>
+ionic platform add android
+ionic build android
+ionic run android
+</code></pre>							
+					</section>	
+					<section>
+					<h2>Ajout sur Play store</h2>
+					
+<pre><code data-trim contenteditable>
+ionic run android --release
+
+// http://developer.android.com/tools/publishing/app-signing.html
+keytool -genkey -v -keystore artmobilis.keystore -alias artmobilis -keyalg RSA 
+ -keysize 2048 -validity 10000
+
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore artmobilis.keystore
+ ArtMobilis-unaligned.apk artmobilis
+
+jarsigner -verify -verbose -certs ArtMobilis-unaligned.apk
+
+// zipalign dans C:\Program Files (x86)\Android\android-sdk\build-tools\23.0.1
+zipalign -v 4 ArtMobilis-unaligned.apk ArtMobilis20151012.apk
+
+</code></pre>							
+					</section>	
+				</section>	
 
 
 			</div>
