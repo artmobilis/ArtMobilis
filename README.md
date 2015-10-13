@@ -7,9 +7,19 @@ Développé collaborativement par plusieurs développeurs, graphistes et artiste
 Repository dédié à la documentation.
 
 * [Art Mobilis - Descriptif](descriptif.md)
-* [Ateliers n°1 - Résumé](resume_atelier_1.md)
+
 * [Revue de presse](revue_de_presse.md)
+
 * [Workflow git](gitWorkflow.md)
+
+## Lab Mobilis' Workshop summaries
+
+* N°1 : 11-13/Mai 2015
+   * [resume atelier 1](resume_atelier_1.md)
+* N°2 : 12-14/Octobre 2015
+   * day1 - [framework : cordova / ionic ...](12octobre) 
+   * day2 - [augmented reality / js libraries TODO](13octobre)
+
 
 ## Prototypes
 
