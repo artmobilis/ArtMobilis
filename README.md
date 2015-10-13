@@ -18,8 +18,8 @@ Repository dédié à la documentation.
 
 ##Externals Libs
 ###Javascripts libs
-* AngularJS (commonly referred to as "Angular") is an open-source web application framework maintained by Google and by a community - [Angular.js](http://angularjs.org/) 
-* Leaflet is the leading open-source JavaScript library for mobile-friendly interactive maps - [leaflet](http://leafletjs.com/)
-* JSFeat - JavaScript Computer Vision Library. [jsfeat](http://inspirit.github.io/jsfeat/)
-* Three.js is cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser. Three.js uses WebGL - [ThreeJS](http://threejs.org/)
-* The tracking.js library brings different computer vision algorithms and techniques into the browser environment. By using modern HTML5 specifications, we enable you to do real-time color tracking, face detection and much more - [tracking.js](http://trackingjs.com/)
+* [Angular.js](http://angularjs.org/) (commonly referred to as "Angular") - Open-source web application framework maintained by Google and by a community.
+* [Leaflet](http://leafletjs.com/) - Open-source JavaScript library for mobile-friendly interactive maps.
+* [JSFeat](http://inspirit.github.io/jsfeat/) - JavaScript Computer Vision Library.
+* [Three.js](http://threejs.org/) - Cross-browser JavaScript library/API used to create and display animated 3D computer graphics on a Web browser. Three.js uses [WebGL](https://fr.wikipedia.org/wiki/WebGL).
+* [Tracking.js](http://trackingjs.com/) - Library that brings different computer vision algorithms and techniques into the browser environment. By using modern HTML5 specifications, we enable you to do real-time color tracking, face detection and much more.
