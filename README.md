@@ -15,10 +15,10 @@ Repository dédié à la documentation.
 ## Lab Mobilis' Workshop summaries
 
 * N°1 : 11-13/Mai 2015
-   * [resume atelier 1](resume_atelier_1.md)
+   * [resume atelier 1](Labs/Lab1/resume_atelier_1.md)
 * N°2 : 12-14/Octobre 2015
-   * day1 - [framework : cordova / ionic ...](12octobre) 
-   * day2 - [augmented reality / js libraries TODO](13octobre)
+   * day1 - [framework : cordova / ionic ...](Labs/Lab2/12octobre) 
+   * day2 - [augmented reality / js libraries TODO](Labs/Lab2/13octobre)
 
 
 ## Prototypes
