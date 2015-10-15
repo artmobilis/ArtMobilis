@@ -33,7 +33,7 @@ N'oubliez pas la bibliographie :)
 
 ##Mercredi 13 Mai
 
-[Git Workflow](gitWorkflow.md)
+[Git Workflow](../../gitWorkflow.md)
 
 Git test en live : 
 
